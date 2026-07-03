@@ -1,3 +1,5 @@
+/*oka debora bcs-05-0067/2025
+a c++ program for a school management system*/
 #include<iostream> 
 #include<string>
 using namespace std;
@@ -27,6 +29,6 @@ int main(){
     s1.name="james";
     s1.age=20;
     s1.admno=1456;
-    s1.room="11th";
+    s1.room="11th";g
     s1.displaystudent();
 }
