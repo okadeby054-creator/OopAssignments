@@ -16,4 +16,5 @@ c++
    ## run vehicle
    ```bash
       g++ vehicle.cpp -o vehicle
+      ./vehicle
       ```
