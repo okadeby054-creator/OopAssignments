@@ -1,3 +1,7 @@
+/*oka debora 
+bcs-05-0067/2025
+a c++ program for asimple library mangement system using multilevel inheritance
+*/
 #include<iostream>
 #include<string>
 using namespace std;
